@@ -15,4 +15,8 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ankitapatil9/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
