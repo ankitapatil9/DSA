@@ -24,4 +24,20 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ankitapatil9/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ankitapatil9/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ankitapatil9/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ankitapatil9/DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
