@@ -8,6 +8,7 @@ My Data Structures and Algorithms solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,20 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/ankitapatil9/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
