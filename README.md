@@ -8,6 +8,7 @@ My Data Structures and Algorithms solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitapatil9/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ankitapatil9/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
@@ -66,4 +67,8 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ankitapatil9/DSA/tree/main/0136-single-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitapatil9/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
