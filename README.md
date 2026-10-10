@@ -8,6 +8,7 @@ My Data Structures and Algorithms solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/ankitapatil9/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitapatil9/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ankitapatil9/DSA/tree/main/0136-single-number/) | Easy |
@@ -16,6 +17,7 @@ My Data Structures and Algorithms solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
@@ -55,6 +57,7 @@ My Data Structures and Algorithms solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
@@ -74,4 +77,12 @@ My Data Structures and Algorithms solutions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ankitapatil9/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitapatil9/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
