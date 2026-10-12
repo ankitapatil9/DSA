@@ -12,6 +12,7 @@ My Data Structures and Algorithms solutions
 | [0018-4sum](https://github.com/ankitapatil9/DSA/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitapatil9/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ankitapatil9/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitapatil9/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -33,6 +34,7 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -113,5 +115,6 @@ My Data Structures and Algorithms solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitapatil9/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
