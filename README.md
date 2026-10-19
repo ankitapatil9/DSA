@@ -13,6 +13,7 @@ My Data Structures and Algorithms solutions
 | [0031-next-permutation](https://github.com/ankitapatil9/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitapatil9/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitapatil9/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/ankitapatil9/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ankitapatil9/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ankitapatil9/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -124,6 +125,7 @@ My Data Structures and Algorithms solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ankitapatil9/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ankitapatil9/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitapatil9/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -139,4 +141,8 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitapatil9/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ankitapatil9/DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
