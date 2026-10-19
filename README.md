@@ -49,6 +49,7 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitapatil9/DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitapatil9/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ankitapatil9/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitapatil9/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -130,4 +131,12 @@ My Data Structures and Algorithms solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitapatil9/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitapatil9/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitapatil9/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
