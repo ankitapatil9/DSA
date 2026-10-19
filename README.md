@@ -21,6 +21,7 @@ My Data Structures and Algorithms solutions
 | [0136-single-number](https://github.com/ankitapatil9/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitapatil9/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ankitapatil9/DSA/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ankitapatil9/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitapatil9/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitapatil9/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
@@ -122,4 +123,8 @@ My Data Structures and Algorithms solutions
 | [0073-set-matrix-zeroes](https://github.com/ankitapatil9/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ankitapatil9/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitapatil9/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ankitapatil9/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
